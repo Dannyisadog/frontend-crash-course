@@ -1,0 +1,2 @@
+# 了解 ES6 module 的使用
+ES6 (ECMAScript 6) module 是一種用於定義和使用 JavaScript 模組的語法。ES6 模組使用 import 和 export 關鍵字來導入和導出模組。與舊版的 CommonJS 或 AMD 等模組系統不同，ES6 模組是靜態分析的，意味著模組的依賴關係在編譯時已經確定，而不是在執行時才解析。這使得 ES6 模組具有更好的效能和可靠性。

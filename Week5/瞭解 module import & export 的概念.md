@@ -1,0 +1,2 @@
+# 瞭解 module import & export 的概念
+在 JavaScript 中，模組 (module) 是一種將程式碼封裝起來以便重複使用的方法。使用模組的好處是可以將程式碼拆分成不同的文件，使得程式碼更容易維護和擴展。JavaScript 模組的 import 和 export 指的是將模組中的函式、變數或物件導入 (import) 到另一個文件中，或是將當前文件中的函式、變數或物件導出 (export) 到另一個文件中。
