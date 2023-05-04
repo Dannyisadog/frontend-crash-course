@@ -1,7 +1,7 @@
 # Frontend Crash Course
 
 ## Guideline
-#### [Week 1: JavaScript Basic](./Week1/README.md)
+#### [Week 1: JavaScript Basic](./Week1/README.md) [(slide)](https://docs.google.com/presentation/d/1ZN5IZUc6RziHAqCbC4vDpTkr8LNFM0hh1qoASUwwd6Y/edit?usp=sharing)
 #### [Week 2: DOM](./Week2/README.md)
 #### [Week 3: API Request](./Week3/README.md)
 #### [Week 4: Asynchronous Concept](./Week4/README.md)
